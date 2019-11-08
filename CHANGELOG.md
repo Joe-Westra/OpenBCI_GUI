@@ -8,6 +8,7 @@ Use OpenBCIHub v2.1.0 please.
 * Make UDPx3 default Transfer protocol Cyton+Wifi
 
 ### Bug Fixes
+* ArrayOutOfBoundsException when streaming 16 channels over network widget #638
 * Playback mode update and bug fixes #633
 * Update channelSelect in BandPower and SSVEP widgets when new playback file is loaded
 
